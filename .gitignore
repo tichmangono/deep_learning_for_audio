@@ -1,3 +1,7 @@
+# Data files
+/UrbanSound8K
+/audio
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
